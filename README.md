@@ -8,9 +8,9 @@ An experimental text-based graph plotter. The function drawn is defined in the s
 
 # Example
 
-![An example of a sin-wave plot](example_sin.png)
+![An example of a sin-wave plot](examples/example_sin.png)
 
-For more examples, please see the 'examples' folder.
+For text examples, please see the 'examples' folder.
 
 # Limitations
 
