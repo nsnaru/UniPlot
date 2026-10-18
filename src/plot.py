@@ -1,6 +1,5 @@
 ##
-# An experimental text-based function plotter with anti-aliasing.
-# By N. Naru
+# An experimental text-based function plotter.
 ##
 
 import math
