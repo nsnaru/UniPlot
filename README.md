@@ -6,11 +6,9 @@
 
 An experimental text-based graph plotter. The function drawn is defined in the source code. The dimensions of the graph, scaling, and line boldness can all be adjusted.
 
-# Example
-
 ![An example of a sin-wave plot](examples/example_sin.png)
 
-For text examples, please see the 'examples' folder.
+**For text examples, please see the 'examples' folder.**
 
 # Limitations
 
