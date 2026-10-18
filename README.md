@@ -13,4 +13,4 @@ An experimental text-based graph plotter. The function drawn is defined in the s
 # Limitations
 
 - Currently square-roots cannot be drawn correctly, with the plotter only drawing the positive root.
-- Functions have to be hard coded. A LATeX intepretator would be a welcome addition.
+- Functions have to be hard coded. A LATeX parser would be a welcome addition.
